@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">I'm Youssef — passionate about coding and creating games</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<h4 align="left">✨ Creating bugs since I wrote my first "Hello, World!"<br>📚 I'm currently learning game development and networking<br>🎯 Goals: Build cool games, level up my coding skills, and contribute to exciting projects<br>🎲 Fun fact: Gym reps and calisthenics sharpen both body and code.</h4>
+<p align="left">I'm Youssef — passionate about coding 
 
 ###
 
